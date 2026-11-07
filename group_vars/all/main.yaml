@@ -19,4 +19,9 @@ shipping_host: shipping.manojkumar.blog
 payment_host: payment.manojkumar.blog
 
 
-#Vault related variables
+#credentials
+ansible_user: ec2-user
+ansible_password: DevOps321
+mysql_root_password: RoboShop@1
+appname: roboshop
+version: v2
