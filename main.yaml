@@ -1,3 +1,4 @@
+# ansible main file.
 - name: configure "{{ component }}""
   hosts: "{{ component }}"
   become: yes
