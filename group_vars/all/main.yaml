@@ -23,6 +23,9 @@ payment_host: payment.manojkumar.blog
 #credentials
 ansible_user: ec2-user
 ansible_password: DevOps321
+shipping_db_user: shipping
+shipping_db_password: RoboShop@1 
 mysql_root_password: RoboShop@1
+rabbitmq_password: RoboShop@1
 appname: roboshop
 version: v2
